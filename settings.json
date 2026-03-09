@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 19,
+      "repeat-delay": 20,
       "messages": [
         "/server lobby",
         "/server lobby",
-        "HI WELCOME TO SMP"
+        "/server lobby"
       ]
     },
     "chat-log": true,
