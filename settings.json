@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 19,
       "messages": [
-        "/register alphaog",
-        "/login alphaog",
-        "/server lobby"
+        "/server lobby",
+        "/server lobby",
+        "HI WELCOME TO SMP"
       ]
     },
     "chat-log": true,
