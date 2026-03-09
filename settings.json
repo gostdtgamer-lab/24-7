@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 19,
       "messages": [
-        "/register alphaog alphaog",
+        "/register alphaog",
         "/login alphaog",
         "/server lobby"
       ]
