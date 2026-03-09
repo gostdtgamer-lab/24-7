@@ -1,7 +1,7 @@
 {
-  "name": "ALPHAOG SMP STATUS BOT",
+  "name": "alphaog",
   "bot-account": {
-    "username": "alphaog_smp_status_bot",
+    "username": "alphaog",
     "password": "",
     "type": "offline"
   },
@@ -11,7 +11,7 @@
     "version": "1.21.1"
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
